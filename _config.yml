@@ -1,0 +1,8 @@
+title: UWRIGHT Blog
+author: DJwrighTalker
+description: Synthesized insight from 5 7 5 in 8 8 1 0 1.
+baseurl: ""
+url: "https://uwrightlabs.com"
+theme: minima
+plugins:
+  - jekyll-feed
